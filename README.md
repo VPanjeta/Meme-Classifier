@@ -4,6 +4,23 @@
 Training done by replacing last layer of Inception model. <br/>
 Training has been done using very few images so the accuracy of prediction might be low in some meme templates. <br/>
 
+## Supported Meme templates
+
+*evil kermit <br/>
+*bad luck brian <br/>
+*good guy greg <br/>
+*the most interesting man in the world<br/>
+*conspiracy keanu <br/>
+*philosoraptor <br/>
+*overly attached girlfriend <br/>
+*doge <br/>
+*one does not simply <br/>
+*condescending wonka <br/>
+*first world problems girl <br/>
+*grumpy cat <br/>
+*success kid <br/>
+*ancient aliens guy <br/>
+
 ## Description
 
 Training has been done by using InceptionV3 model and training the last layer using bottlenecks. <br/>
