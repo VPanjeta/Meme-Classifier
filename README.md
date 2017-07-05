@@ -25,7 +25,7 @@ good guy greg               : 0.00226
 success kid                 : 0.00224
 ```
 5. Test again by running `python classify_meme.py memes/meme2.jpg`
-6. The expected result is for the meme is :
+6. The expected result for the given meme would be :
 ![doge](memes/meme2.jpg)
 ```
 doge                        : 0.99790
